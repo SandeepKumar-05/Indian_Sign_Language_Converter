@@ -8,12 +8,12 @@ import SplashCursor from '../../Cursor/SplashCursor'
 function Home() {
   return (
     <div>
-      <SplashCursor/>
-      <Hero/>
-      <About/>
-      <Service/>
-      <Footer/>
-    </div>
+    <SplashCursor /> 
+    <Hero />
+    <About />
+    <Service />
+    <Footer />
+  </div>
   )
 }
 

@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer-content">
-        <p>© {new Date().getFullYear()} Sign Language Translator. All rights reserved.</p>
+        <p>© {new Date().getFullYear()} Indian Sign Language Translator</p>
         <div className="footer-links">
           <a href="/about">About</a>
           <a href="/contact">Contact</a>

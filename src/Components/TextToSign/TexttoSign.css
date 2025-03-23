@@ -74,7 +74,7 @@ input:focus {
 .content_gif .sub_button {
     width: 80px;
     height: 40px;
-    background-color: #28a745;
+    background-color: red;
     color: white;
     border: none;
     border-radius: 10px;
